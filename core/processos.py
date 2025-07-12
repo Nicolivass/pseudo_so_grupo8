@@ -1,0 +1,1 @@
+#atributos como PID, prioridade, tempo, blocos, etc.

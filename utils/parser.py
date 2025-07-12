@@ -1,0 +1,1 @@
+#Funções parse_processos() e parse_arquivos().
